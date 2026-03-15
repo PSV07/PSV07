@@ -5,7 +5,7 @@ Aspiring Software Developer and AI/ML enthusiast with strong foundations in Java
 
 *   🌍  I'm based in India.
 *   ✉️  You can contact me at [paragtits@gmail.com](mailto:paragtits@gmail.com )
-*   🧠  I'm learning Sap ABAP certificate.
+*   🧠  I'm learning Backend Development.
 *   🤝  I'm open to collaborating on interesting projects.
 *   ⚡  I'm a secret tony stark, don't tell anyone.### Skills 
 <p align="left">
